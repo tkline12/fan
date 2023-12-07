@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+    color:black 
+}
+p{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    color: #FC4C02
+}
+body{
+    background-color: #008E97 ;
+}
+#roster-span{
+    font-size: 50px;
+    text-decoration: underline;
+    color: white;
+}
+#roster-table{
+    font-size: 30px;
+    color: white;
+    border-spacing: 30px;
+    border: white;
+}
+#schedule-span{
+    font-size: 50px;
+    color: white;
+    text-decoration: underline;
+}
+#miami-pic{
+    float: right;
+    position: relative; 
+}
+td{
+    color: white;
+    text-align: center;
+    border-spacing: 30px;
+}
+#schedule-table{
+    border-spacing: 10px;
+    font-size: 30px;
+    color: white;
+}
+blockquote{
+    font-style: italic;
+}
+#quotes{
+    text-decoration: underline;
+}
+#hyperlinks{
+    text-decoration: underline;
+}
+#form-title{
+    background-color: rgb(205, 255, 218);
+}
+#actualform{
+    background-color: blueviolet;
+}
